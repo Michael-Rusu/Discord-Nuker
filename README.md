@@ -1,10 +1,9 @@
-# Presser: 7teen Server Nuker
 
-| Presser | 
-| ------------- | 
-| ![Presser](https://media.discordapp.net/attachments/840525480331575328/886687168452509786/unknown.png) |
 
-![](https://img.shields.io/github/watchers/17teen/Discord-Presser-Server-Nuker?style=social) ![](https://img.shields.io/github/stars/17teen/Discord-Presser-Server-Nuker?style=social) ![](https://img.shields.io/github/forks/17teen/Discord-Presser-Server-Nuker?style=social)
+```This is a clone of 7teens discord nuker, but modified to work for the GrimSec```
+
+
+
 
 ## Features:
 1. `Mass Create Channels`
@@ -15,8 +14,7 @@
 6. `Delete All Emojis`
 7. `Ban All Members`
 8. `Kick All Members`
-9. `Delete All Stickers` **(NEW)**
-
+9. `Delete All Stickers` 
 # Show Case: 
 
 | Mass Delete Channels | Mass Create Channels | Mass Roles |
@@ -80,9 +78,3 @@ This is tool was made for educational purposes and proof of concepts. I'm not ac
 ## Tip
 Also I'd recommend only mass pinging till the server reaches to 3k pings. Any more than that will result in the hoster of the tool discord to lag or be rate limited for 30 mins - 2hrs ;)
 
-## Contact Me
-
-﹒[Discord](https://discord.com/users/358310460187082763)
-﹒[Discord Server](https://discord.gg/4nSYqZ8KAA)
-﹒[Telegram](https://t.me/clairvoyant7teen)
-﹒[Steam](https://steamcommunity.com/id/seven777teen/)
