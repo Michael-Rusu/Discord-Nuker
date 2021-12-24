@@ -1,6 +1,6 @@
 
 
-```This is a clone of 7teens discord nuker, but modified to work for the GrimSec```
+>```This is a clone of 7teens discord nuker, but modified to work for the GrimSec```
 
 
 
