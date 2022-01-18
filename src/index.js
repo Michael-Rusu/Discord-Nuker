@@ -18,14 +18,14 @@ nuker.on("ready", () => {
                     Nuker: ${nuker.user.tag}
                     Prefix: ${prefix}
     `))
-    nuker.user.setActivity({ name: "Zoophile >w<", type: "PLAYING" });
+    nuker.user.setActivity({ name: "Minecraft", type: "PLAYING" });
 });
 
 nuker.on("messageCreate", (message) => {
 
     // Help Embed
     const help = new MessageEmbed()
-        .setDescription(`**Zoo Help ;**
+        .setDescription(`**Dream Help ;**
     \n**mass channels ;**
     ${prefix}mc [amount] (text) i.e \`${prefix}mc 5 test\`\n
     **mass channel n ping ;**
